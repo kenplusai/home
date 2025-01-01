@@ -1,2 +1,2 @@
 # home
-kenplusai.comのホーム
+https:kenplusai.comのホーム
